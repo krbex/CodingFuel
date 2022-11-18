@@ -33,8 +33,6 @@
   Sophia Aramburu
 
   Aidan Krbec
-
-  Scott Simon
   
  - Screenshot
 
