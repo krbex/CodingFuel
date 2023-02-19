@@ -36,11 +36,11 @@
   
  - Screenshot
 
-![image](https://user-images.githubusercontent.com/60651145/202078296-c539f11a-25fd-4158-82ab-4e0582322df7.png)
+![gif](https://drive.google.com/file/d/1VCSpSkcJTMpjNdUdZFZmuto0CqSmCN71/view)
 
 - URL to deployed application
 
-https://codingfuel.herokuapp.com/
+https://coding-fuel.herokuapp.com/
 
 - URL to Github Repo
 
