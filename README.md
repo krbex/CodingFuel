@@ -15,11 +15,15 @@
 
 ## Installation
 
-  1) Run npm install 2) source schema in mysql and create .env file 3) npm run seed 4) npm start 5) open in browser localhost:3001 
+  1) Run npm install 
+  2) source schema in mysql and create .env file 
+  3) npm run seed 
+  4) npm start 
+  5) open in browser localhost:3001 
 
 ## Usage
 
-  Signup and post details on completed interviews and prep with randomized interview questions
+  Signup and post details on completed interviews and prep with randomized interview questions. These questions can be hard coded using seed data or set to utilize the responses provided by the user for a more personalized experience through sequelize. 
 
 ## License
 
