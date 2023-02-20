@@ -36,7 +36,7 @@
   
  - Screenshot
 
-![gif](https://drive.google.com/file/d/1VCSpSkcJTMpjNdUdZFZmuto0CqSmCN71/view)
+![gif](./assets/codingfuel.gif)
 
 - URL to deployed application
 
